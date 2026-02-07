@@ -76,7 +76,26 @@ DOI: 10.1109/DTPI55838.2022.9998929
 
 ---
 
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://coursera.org/verify/XXXX">
+    <img src="./assets/ml.png" width="160"/>
+  </a>
+  <a href="https://coursera.org/verify/YYYY">
+    <img src="./assets/dl.png" width="160"/>
+  </a>
+</p>
+
+- **Machine Learning Specialization** — Coursera  
+  Applied in factor weighting models (LASSO, RF, LGBM)
+
+- **Deep Learning Specialization** — Coursera  
+  Applied in TCN-based cross-sectional alpha modeling
+
+---
+
 ## 📫 Contact
 
-- 📧 Email: hz2974@gsb.columbia.edu  
+- 📧 Email: a745948184@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/hao-hardy-zhang/
